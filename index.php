@@ -8,8 +8,8 @@
 
 // Meta Configuration
 $meta_title = "Immobilienmarkt 2025: +3,2% Preisanstieg – Makler Rastatt";
-$meta_description = "Entdecken Sie 2025: Immobilienpreise in Baden-Württemberg steigen um +3,2%. Erfahren Sie, warum professionelle Makler im Landkreis Rastatt unverzichtbar sind.";
-$canonical_url = "https://yourdomain.com/immobilienmakler-landkreis-rastatt";
+$meta_description = "Entdecken Sie 2025: Immobilienpreise in Baden-Württemberg steigen um +3,2%.Erfahren Sie, warum professionelle Makler im Landkreis Rastatt unverzichtbar sind";
+$canonical_url = "https://hiller-immobilien-im-landkreis-55b5fc54a8c1.herokuapp.com/";
 $company_name = "Hiller Immobilien";
 $target_city = "Baden-Württemberg";
 $primary_keyword = "Immobilienmakler im Landkreis Rastatt";
@@ -102,6 +102,7 @@ $local_business_schema = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     
     <!-- SEO Meta Tags -->
     <title><?php echo htmlspecialchars($meta_title); ?></title>
