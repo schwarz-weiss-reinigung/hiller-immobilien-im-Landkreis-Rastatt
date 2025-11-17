@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://hiller-immobilien.b-cdn.net/sitemap.xml
+Sitemap: https://hiller-immobilien-im-landkreis-55b5fc54a8c1.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
