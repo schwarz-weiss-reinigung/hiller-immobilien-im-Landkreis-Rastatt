@@ -576,4 +576,101 @@ $local_business_schema = [
             <h3>Checkliste für den Immobilienkauf:</h3>
             <ul style="padding-left: 40px; margin: 25px 0;">
                 <li style="margin-bottom: 15px;">✓ Budget und Finanzierung klären (inkl. Nebenkosten von ca. 12-15%)</li>
-                <li style="margin-bottom:
+                <li style="margin-bottom: 15px;">✓ Lage und Infrastruktur prüfen (Verkehrsanbindung, Schulen, Einkaufsmöglichkeiten)</li>
+                <li style="margin-bottom: 15px;">✓ Bausubstanz und Zustand der Immobilie begutachten</li>
+                <li style="margin-bottom: 15px;">✓ Energieausweis und Energieeffizienz beachten</li>
+                <li style="margin-bottom: 15px;">✓ Grundbuch auf Belastungen prüfen lassen</li>
+                <li style="margin-bottom: 15px;">✓ Baulastenverzeichnis und Flächennutzungsplan einsehen</li>
+                <li style="margin-bottom: 15px;">✓ Künftige Entwicklung der Umgebung recherchieren</li>
+                <li style="margin-bottom: 15px;">✓ Professionelle Begleitung durch Makler und Notar</li>
+            </ul>
+            
+            <h2>Hiller Immobilien: Ihr Partner im Landkreis Rastatt</h2>
+            
+            <p>Wenn Sie auf der Suche nach einem vertrauenswürdigen und erfahrenen <a href="<?php echo htmlspecialchars($backlink_primary); ?>" class="backlink" rel="dofollow" target="_blank">Immobilienmakler im Landkreis Rastatt</a> sind, ist <strong><?php echo htmlspecialchars($company_name); ?></strong> Ihre erste Anlaufstelle. Mit jahrelanger Erfahrung im regionalen Immobilienmarkt, umfassender Marktkenntnis und einem starken Netzwerk begleiten wir Sie professionell durch den gesamten Kauf- oder Verkaufsprozess.</p>
+            
+            <img src="<?php echo htmlspecialchars($company_logo); ?>" alt="<?php echo htmlspecialchars($company_name); ?> Logo" class="company-logo" loading="lazy">
+            
+            <h3>Unsere Leistungen im Überblick:</h3>
+            
+            <div class="services-list">
+                <ul>
+                    <li><strong>Kostenlose Erstberatung:</strong> Wir analysieren Ihre Situation und beraten Sie unverbindlich zu Ihren Möglichkeiten.</li>
+                    
+                    <li><strong>Professionelle Immobilienbewertung:</strong> Nutzen Sie unsere Expertise für eine marktgerechte Wertermittlung Ihrer Immobilie.</li>
+                    
+                    <li><strong>360°-Marketing:</strong> Von der Erstellung hochwertiger Exposés bis zur Vermarktung auf allen relevanten Kanälen.</li>
+                    
+                    <li><strong>Besichtigungsmanagement:</strong> Wir übernehmen die komplette Organisation und Durchführung aller Besichtigungstermine.</li>
+                    
+                    <li><strong>Verhandlungsführung:</strong> Profitieren Sie von unserer Erfahrung in Preisverhandlungen und Vertragsgestaltung.</li>
+                    
+                    <li><strong>Komplette Abwicklung:</strong> Vom ersten Kontakt bis zur Schlüsselübergabe – wir begleiten Sie durch jeden Schritt.</li>
+                    
+                    <li><strong>After-Sales-Service:</strong> Auch nach dem Verkauf stehen wir Ihnen für Fragen zur Verfügung.</li>
+                </ul>
+            </div>
+            
+            <h2>Häufig gestellte Fragen (FAQ)</h2>
+            
+            <h3>Wie viel kostet ein Immobilienmakler im Landkreis Rastatt?</h3>
+            <p>Die Maklerprovision ist gesetzlich geregelt und wird seit 2020 zwischen Käufer und Verkäufer geteilt. Im Regelfall liegt die Gesamtprovision bei 5-7% des Kaufpreises zzgl. MwSt., wobei sich Käufer und Verkäufer die Kosten teilen. Die exakte Höhe wird individuell vereinbart und ist abhängig vom Umfang der Dienstleistungen.</p>
+            
+            <h3>Wie lange dauert ein Immobilienverkauf im Durchschnitt?</h3>
+            <p>Im Landkreis Rastatt beträgt die durchschnittliche Vermarktungsdauer etwa 92 Tage. Mit professioneller Unterstützung und realistischer Preisgestaltung kann dieser Zeitraum jedoch deutlich verkürzt werden. Faktoren wie Lage, Zustand und Preis beeinflussen die Verkaufsdauer maßgeblich.</p>
+            
+            <h3>Benötige ich einen Energieausweis für den Verkauf?</h3>
+            <p>Ja, ein Energieausweis ist gesetzlich vorgeschrieben und muss spätestens bei der Besichtigung vorgelegt werden. Er informiert potenzielle Käufer über die Energieeffizienz der Immobilie und ist maximal 10 Jahre gültig.</p>
+            
+            <h3>Kann ich meine Immobilie auch selbst verkaufen?</h3>
+            <p>Grundsätzlich ja, jedoch zeigen Statistiken, dass durch Makler vermittelte Immobilien im Durchschnitt 15-20% höhere Verkaufspreise erzielen und deutlich schneller verkauft werden. Zudem sparen Sie sich den zeitlichen Aufwand und profitieren von rechtlicher Sicherheit.</p>
+            
+            <h3>Was ist meine Immobilie wert?</h3>
+            <p>Der Wert einer Immobilie hängt von vielen Faktoren ab: Lage, Größe, Zustand, Ausstattung, Grundstücksgröße und aktuelle Marktlage. Eine professionelle Bewertung durch einen erfahrenen Makler liefert Ihnen eine realistische Einschätzung. <a href="<?php echo htmlspecialchars($backlink_contact); ?>" class="backlink" rel="dofollow" target="_blank">Kontaktieren Sie uns</a> für eine kostenlose Erstbewertung.</p>
+            
+            <h2>Marktausblick 2025/2026: Wie entwickelt sich der Immobilienmarkt?</h2>
+            
+            <p>Experten prognostizieren für den Landkreis Rastatt auch in den kommenden Jahren eine stabile Marktentwicklung. Die anhaltend hohe Nachfrage nach Wohnraum, begrenzte Neubautätigkeit und die attraktive Lage der Region sprechen für weiterhin steigende oder zumindest stabile Preise. Besonders im Segment der Einfamilienhäuser und modernen Eigentumswohnungen wird mit einer positiven Entwicklung gerechnet.</p>
+            
+            <div class="highlight-box">
+                <strong>Expertentipp:</strong> Der Immobilienmarkt in Baden-Württemberg gilt als einer der sichersten Investitionsstandorte in Deutschland. Wer jetzt kauft oder verkauft, sollte auf professionelle Beratung setzen, um von den aktuellen Marktbedingungen optimal zu profitieren.
+            </div>
+            
+            <h2>Nachhaltigkeit und Energieeffizienz: Wichtige Faktoren beim Immobilienverkauf</h2>
+            
+            <p>Energieeffiziente Immobilien werden zunehmend wichtiger und erzielen höhere Verkaufspreise. Investitionen in moderne Heizungssysteme, Dämmung und erneuerbare Energien zahlen sich nicht nur durch niedrigere Betriebskosten aus, sondern steigern auch den Marktwert erheblich. Ein professioneller Makler berät Sie zu sinnvollen Modernisierungsmaßnahmen vor dem Verkauf.</p>
+            
+            <div class="cta-section">
+                <h2>Bereit für Ihren erfolgreichen Immobilienverkauf oder -kauf?</h2>
+                <p style="font-size: 1.2em; margin: 25px 0;">Vertrauen Sie auf die Expertise von <?php echo htmlspecialchars($company_name); ?> – Ihrem professionellen Partner für Immobilien im Landkreis Rastatt. Wir bieten Ihnen eine kostenlose Erstberatung und unverbindliche Immobilienbewertung.</p>
+                
+                <a href="<?php echo htmlspecialchars($backlink_contact); ?>" class="cta-button" rel="dofollow" target="_blank">Jetzt kostenlos beraten lassen</a>
+                <a href="<?php echo htmlspecialchars($backlink_primary); ?>" class="cta-button" rel="dofollow" target="_blank">Mehr über uns erfahren</a>
+            </div>
+            
+            <h2>Fazit: Der richtige Partner macht den Unterschied</h2>
+            
+            <p>Der Immobilienmarkt im Landkreis Rastatt bietet auch 2025 hervorragende Chancen für Käufer und Verkäufer. Mit einem Preisanstieg von durchschnittlich 3,2% und stabilen Marktbedingungen bleibt Baden-Württemberg eine der attraktivsten Regionen für Immobilieninvestitionen in Deutschland. Doch um diese Chancen optimal zu nutzen, ist professionelle Unterstützung unerlässlich.</p>
+            
+            <p>Ein erfahrener <strong>Immobilienmakler im Landkreis Rastatt</strong> bringt nicht nur Marktkenntnisse und Verhandlungsgeschick mit, sondern auch ein umfangreiches Netzwerk, moderne Marketingtools und rechtliche Expertise. Die Investition in professionelle Begleitung zahlt sich durch höhere Verkaufspreise, kürzere Vermarktungszeiten und rechtliche Sicherheit mehrfach aus.</p>
+            
+            <p><a href="<?php echo htmlspecialchars($backlink_primary); ?>" class="backlink" rel="dofollow" target="_blank"><strong><?php echo htmlspecialchars($company_name); ?></strong></a> steht Ihnen als vertrauensvoller Partner zur Seite – von der ersten Beratung bis zur erfolgreichen Vertragsunterzeichnung. Kontaktieren Sie uns noch heute und profitieren Sie von unserer langjährigen Erfahrung im regionalen Immobilienmarkt.</p>
+            
+            <div class="quote-box">
+                <strong>Ihre nächsten Schritte:</strong><br>
+                1. Kostenlose Erstberatung vereinbaren<br>
+                2. Unverbindliche Immobilienbewertung erhalten<br>
+                3. Individuelle Vermarktungsstrategie entwickeln<br>
+                4. Erfolgreich verkaufen oder kaufen mit professioneller Unterstützung
+            </div>
+        </article>
+        
+        <footer>
+            <p><strong><?php echo htmlspecialchars($company_name); ?></strong> – Ihr Immobilienexperte im Landkreis Rastatt</p>
+            <p>📞 +49-7222-4048484 | 📧 <a href="<?php echo htmlspecialchars($backlink_contact); ?>" style="color: white;" rel="dofollow" target="_blank">Kontakt aufnehmen</a></p>
+            <p style="margin-top: 20px;">🌐 <a href="<?php echo htmlspecialchars($backlink_primary); ?>" style="color: white;" rel="dofollow" target="_blank">www.hiller-immobilien.com</a> | <a href="<?php echo htmlspecialchars($backlink_internal); ?>" style="color: white;" rel="dofollow" target="_blank">Portfolio ansehen</a></p>
+            <p style="margin-top: 20px; font-size: 0.9em; opacity: 0.8;">© <?php echo date('Y'); ?> <?php echo htmlspecialchars($company_name); ?>. Alle Rechte vorbehalten.</p>
+        </footer>
+    </div>
+</body>
+</html>
