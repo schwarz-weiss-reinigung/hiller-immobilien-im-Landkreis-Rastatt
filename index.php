@@ -646,7 +646,7 @@ $local_business_schema = [
                 <p style="font-size: 1.2em; margin: 25px 0;">Vertrauen Sie auf die Expertise von <?php echo htmlspecialchars($company_name); ?> – Ihrem professionellen Partner für Immobilien im Landkreis Rastatt. Wir bieten Ihnen eine kostenlose Erstberatung und unverbindliche Immobilienbewertung.</p>
                 
                 <a href="<?php echo htmlspecialchars($backlink_contact); ?>" class="cta-button" rel="dofollow" target="_blank">Jetzt kostenlos beraten lassen</a>
-                <a href="<?php echo htmlspecialchars($backlink_primary); ?>" class="cta-button" rel="dofollow" target="_blank">Mehr über uns erfahren</a>
+                <a href="<?php echo htmlspecialchars($backlink_internal); ?>" style="color: white;" rel="dofollow" target="_blank">Portfolio ansehen</a>
             </div>
             
             <h2>Fazit: Der richtige Partner macht den Unterschied</h2>
@@ -669,7 +669,7 @@ $local_business_schema = [
         <footer>
             <p><strong><?php echo htmlspecialchars($company_name); ?></strong> – Ihr Immobilienexperte im Landkreis Rastatt</p>
             <p>📞 +49-7222-4048484 | 📧 <a href="<?php echo htmlspecialchars($backlink_contact); ?>" style="color: white;" rel="dofollow" target="_blank">Kontakt aufnehmen</a></p>
-            <p style="margin-top: 20px;">🌐 <a href="<?php echo htmlspecialchars($backlink_primary); ?>" style="color: white;" rel="dofollow" target="_blank">www.hiller-immobilien.com</a> | <a href="<?php echo htmlspecialchars($backlink_internal); ?>" style="color: white;" rel="dofollow" target="_blank">Portfolio ansehen</a></p>
+            <p style="margin-top: 20px;">🌐 <a href="<?php echo htmlspecialchars($backlink_primary); ?>" style="color: white;" rel="dofollow" target="_blank">www.hiller-immobilien.com</a> | </p>
             <p style="margin-top: 20px; font-size: 0.9em; opacity: 0.8;">© <?php echo date('Y'); ?> <?php echo htmlspecialchars($company_name); ?>. Alle Rechte vorbehalten.</p>
         </footer>
     </div>
