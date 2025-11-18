@@ -646,7 +646,7 @@ $local_business_schema = [
                 <p style="font-size: 1.2em; margin: 25px 0;">Vertrauen Sie auf die Expertise von <?php echo htmlspecialchars($company_name); ?> – Ihrem professionellen Partner für Immobilien im Landkreis Rastatt. Wir bieten Ihnen eine kostenlose Erstberatung und unverbindliche Immobilienbewertung.</p>
                 
                 <a href="<?php echo htmlspecialchars($backlink_contact); ?>" class="cta-button" rel="dofollow" target="_blank">Jetzt kostenlos beraten lassen</a>
-                <a href="<?php echo htmlspecialchars($backlink_internal); ?>" style="color: white;" rel="dofollow" target="_blank">Portfolio ansehen</a>
+                <a href="<?php echo htmlspecialchars($backlink_internal); ?>" class="cta-button" rel="dofollow" target="_blank">Portfolio ansehen</a>
             </div>
             
             <h2>Fazit: Der richtige Partner macht den Unterschied</h2>
